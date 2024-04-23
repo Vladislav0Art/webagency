@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://TommyIQ.github.io/webagency",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
